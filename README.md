@@ -59,7 +59,8 @@ blood-bank-optimizer/
 
 ## 📃 License
 
-MIT License — feel free to fork and extend!
+MIT License — feel free to fork and extend!  
+[MIT License](https://opensource.org/licenses/MIT)
 
 
 
